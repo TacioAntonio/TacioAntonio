@@ -4,7 +4,7 @@ _Software Engineer Web_
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tacioantonio10@gmail.com)   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tacioantonio/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TacioAntonio&count_private=true&layout=compact&theme=dark)](https://github.com/TacioAntonio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TacioAntonio&count_private=true&theme=onedark)](https://github.com/TacioAntonio/github-readme-stats)
 
 ## 👩‍💻 Skills
 
